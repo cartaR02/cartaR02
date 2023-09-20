@@ -1,5 +1,4 @@
 Im Carter Struck
 A student at Virginia Commonwealth University
 Email: carterstruck02@gmail.com
-Learning Java
-Knowledge of Python, C++, and HTML
+Linkedin: https://www.linkedin.com/in/carter-struck-53a494211/
